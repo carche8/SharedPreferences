@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application. SharedPreferences</string>
+    <string name="et1">Campo para recoger el e-mail</string>
+    <string name="btn_guardar">Botón para guardar el e-mail</string>
+</resources>
